@@ -21,7 +21,6 @@ main{
 }
 
 .pokedex {
-    width: 100%;
     max-width: 425px;
 }
 
@@ -117,11 +116,4 @@ main{
     bottom: 46%;
     width: 58%;
     height: 27%;
-}
-
-@media (max-width: 800px) {
-    .pokedex {
-        width: 100%;
-        margin-bottom: 20px;
-    }
 }
